@@ -1,4 +1,4 @@
-{$N8N_DOMAIN} {
+n8n.colorverse.dev {
 	reverse_proxy n8n:5678 {
 		flush_interval -1
 	}
